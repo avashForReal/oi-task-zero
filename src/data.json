@@ -1,0 +1,90 @@
+[
+  {
+    "post_title": "The Snow Legend",
+    "user_name": "Luz Lang",
+    "user_image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "post_image": "https://pixabay.com/get/g37c81877f4418fbd05f8ec1e1f638cf9a2b21bddcaee99047f84aa7e5a93d74b6f4a14bdeeca96e41fbbc453dc3fe6ad_1280.jpg",
+    "like_count": 10,
+    "comment_count": 1
+  },
+  {
+    "post_title": "Left for evil",
+    "user_name": "Lilia Rivers",
+    "user_image": "https://randomuser.me/api/portraits/women/90.jpg",
+    "post_image": "https://pixabay.com/get/g0fc54a94457f5857be4c6cd51ab8c3df2ed496e6539d9dc901438f0d5b08701fa610e8f3804cfe73e36ea6a6e5bf2825_1280.jpg",
+    "like_count": 5,
+    "comment_count": 5
+  },
+  {
+    "post_title": "Case of the Filthy Shih Tzu",
+    "user_name": "Jamie Orr",
+    "user_image": "https://randomuser.me/api/portraits/men/90.jpg",
+    "post_image": "https://pixabay.com/get/g0b05033307fde5ed03a8c90d7c430f389c37bb348f20cc32df809746f97505640bd6d49658a3eba5e9253e030079ccde_1280.jpg",
+    "like_count": 8,
+    "comment_count": 12
+  },
+  {
+    "post_title": "Sinbound",
+    "user_name": "Abigayle Wolfe",
+    "user_image": "https://randomuser.me/api/portraits/women/79.jpg",
+    "post_image": "https://pixabay.com/get/g0eebff8522816a78b8fedb9236b5381a6e5139a25d6aaf88bae9795eab22bc1d8a6ea31f05cae89f96f52206c78ada28_1280.jpg",
+    "like_count": 155,
+    "comment_count": 50
+  },
+  {
+    "post_title": "Voltaic Leviathan",
+    "user_name": "Cheyanne Pollard",
+    "user_image": "https://randomuser.me/api/portraits/women/85.jpg",
+    "post_image": "https://pixabay.com/get/ge5e9451a94af0a2442f76c980f0191581b2495af7bd5994cc09049c5553c71a034fdcc88c4f57d95dc9990e54febc981_1280.jpg",
+    "like_count": 69,
+    "comment_count": 66
+  },
+  {
+    "post_title": "Clue of the Concave Violin",
+    "user_name": "Aydan Morton",
+    "user_image": "https://randomuser.me/api/portraits/men/47.jpg",
+    "post_image": "https://pixabay.com/get/g19113e935b440a6cc4eb2e89d3d3a4f0426eca66e259edd7876c29c98dcc12358c11837c2c336275e4c1c520fd6d2db6_1280.jpg",
+    "like_count": 21,
+    "comment_count": 24
+  },
+  {
+    "post_title": "The Missing Token",
+    "user_name": "Trevin Ball",
+    "user_image": "https://randomuser.me/api/portraits/men/41.jpg",
+    "post_image": "https://pixabay.com/get/gced6a0259ea2717a873d580906e31f8ddfc2d43fa5163abfa3235e235c1390093cbe27223c763f2814c9ec252808bd6b_1280.jpg",
+    "like_count": 74,
+    "comment_count": 1
+  },
+  {
+    "post_title": "Silent Gun",
+    "user_name": "Renee Colon",
+    "user_image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "post_image": "https://pixabay.com/get/gc73aec93a0292721b7091111329d5d6e1743e92894289acc2db24a2a79cdbd92e88a9dda6d4c62832294203ecc57b88a_1280.jpg",
+    "like_count": 86,
+    "comment_count": 0
+  },
+  {
+    "post_title": "The Bones of the Marked",
+    "user_name": "Dorian Edwards",
+    "user_image": "https://randomuser.me/api/portraits/men/9.jpg",
+    "post_image": "https://pixabay.com/get/gac3eb13affdf02237e876f0c2e33644807cf9b9802dd4ef5eb5ab49d8a8281224594eac1dcfcb456bc894ad60189adbd_1280.png",
+    "like_count": 59,
+    "comment_count": 36
+  },
+  {
+    "post_title": "The Scarlet File",
+    "user_name": "Neveah Everett",
+    "user_image": "https://randomuser.me/api/portraits/women/11.jpg",
+    "post_image": "https://pixabay.com/get/g1846dec25115b48e3a119a12426eea697c0228357363d93819f7d98887c9853d78d509ebd8b7a10b39e1d2ba1f12b978_1280.jpg",
+    "like_count": 77,
+    "comment_count": 3
+  },
+  {
+    "post_title": "Electric Son",
+    "user_name": "Tianna Buchanan",
+    "user_image": "https://randomuser.me/api/portraits/women/7.jpg",
+    "post_image": "https://pixabay.com/get/g7e1066209c452c4a773e2cf7aa2d27b018e7782f108b56a44acfb7d1dab64d848c6023cf8be626eff14cdf65d6638467_1280.jpg",
+    "like_count": 91,
+    "comment_count": 12
+  }
+]
