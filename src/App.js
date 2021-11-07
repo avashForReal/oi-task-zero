@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-import data from "./data.json";
+import data from "./data1.json";
 
 import Toggle from "./components/Toggle";
 import Posts from "./components/Posts";
